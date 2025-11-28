@@ -1,0 +1,4 @@
+token.txt
+bot.log
+bot.exe
+*.exe
